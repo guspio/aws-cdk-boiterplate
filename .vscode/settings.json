@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": false,
+  "editor.defaultFormatter": null,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "versionlens.suggestions.showOnStartup": true
+}
