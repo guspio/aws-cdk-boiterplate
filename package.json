@@ -1,6 +1,6 @@
 {
   "name": "aws-cdk-boiterplate",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "type": "module",
   "bin": {
     "aws-cdk-boiterplate": "bin/aws-cdk-boiterplate.js"
